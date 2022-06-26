@@ -1,3 +1,5 @@
+```python
+
 ######################################
 ## Convert indexes to datetime type ##
 ######################################
@@ -93,3 +95,5 @@ def data_compiled():
     return result
     
 final_data = data_compiled()
+
+```
