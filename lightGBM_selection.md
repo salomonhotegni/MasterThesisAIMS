@@ -1,5 +1,9 @@
 ```python
 
+##########
+### AHE ###
+##########
+
 def Light_Import(i):
   col = ["TEI", "IPP", "CPP", "ER", "RP", "aveFA", "aveAT", "Accuracy", "Time"]
   tmp = pd.DataFrame(columns = col)
@@ -123,5 +127,10 @@ def fold_select_LGBM(Train_data, Test_data):
   
 Train_LGBM_map, Test_LGBM_map, NAMES_imp_lgbm, SELECT_imp_lgbm = fold_select_LGBM(Train_data, Test_data)
  
+##########
+### TE ###
+##########
+
+Change the target "target_MAP" to "target_HR"
 
 ```
