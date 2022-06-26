@@ -10,3 +10,5 @@ presented wholly or in part for the award of a degree at AIMS Rwanda or any othe
 
 Student: Sedjro Salomon Hotegni
 ### Master's degree in Data Science
+
+File: https://github.com/Salomon2000Sedjro/MasterThesisAIMS/blob/main/salomon_hotegni_essay2022_final.pdf 
