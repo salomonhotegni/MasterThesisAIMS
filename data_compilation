@@ -1,0 +1,20 @@
+######################################
+## Convert indexes to datetime type ##
+######################################
+
+from dateutil import parser
+from datetime import datetime
+
+data2 = [i for i in data1]
+for i in range(86):
+  old_index = [str(x) for x in data2[i].index.tolist()]
+  new_index = []
+  for j in old_index:
+    date_time = parser.parse(j)
+    new_index.append(date_time)
+    
+  data2[i] = data2[i].rename(index=dict(zip(old_index,new_index)))
+  
+###################################
+## Identify non-cinsecutive time ##
+###################################
