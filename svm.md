@@ -4,6 +4,11 @@
 ## III- SVM for classification ##
 #################################
 
+##########
+### AHE ###
+##########
+
+
 
 import pandas as pd  
 import numpy as np  
@@ -109,5 +114,11 @@ def SVC_perf_on_fold(i):
     tmp = pd.concat([tmp, EM_LGBM_full], ignore_index = True)
 
   return tmp, opt_parameters
+
+##########
+### TE ###
+##########
+
+Change the target "target_MAP" to "target_HR"
 
 ```
