@@ -2,7 +2,7 @@
 
 ## Title: Efficient Novelty Detection Methods for Early Warning of Potential Fatal Diseases
 
-This work was carried out at AIMS Rwanda in partial fulfilment of the requirements for a Master
+This work was carried out at the African Institute for Mathematical Sciences (AIMS-Rwanda) in partial fulfilment of the requirements for a Master
 of Science Degree.
 
 Student: Sedjro Salomon Hotegni
