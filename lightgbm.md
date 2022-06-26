@@ -4,6 +4,10 @@
 ## II- LightGBM for classification ##
 #####################################
 
+##########
+### AHE ###
+##########
+
 # Prepare learning rate shrinkage
 def learning_rate_010_decay_power_099(current_iter):
     base_learning_rate = 0.1
@@ -149,5 +153,11 @@ def lgbm_perf_on_fold(i):
     tmp = pd.concat([tmp, EM_LGBM_full], ignore_index = True)
 
   return tmp, opt_parameters
+
+##########
+### TE ###
+##########
+
+Change the target "target_MAP" to "target_HR"
 
 ```
