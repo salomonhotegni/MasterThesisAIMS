@@ -4,6 +4,10 @@
 ## I- XGBoost for classification ##
 ###################################
 
+###########
+### AHE ###
+###########
+
 import keras
 from keras import layers
 from keras.layers import Dense
@@ -164,4 +168,11 @@ def mod_perf_on_fold(i):
     tmp = pd.concat([tmp, EM_LGBM_full], ignore_index = True)
 
   return tmp
+  
+##########
+### TE ###
+##########
+
+Change the target "target_MAP" to "target_HR"
+
 ```
