@@ -5,10 +5,9 @@
 This work was carried out at AIMS Rwanda in partial fulfilment of the requirements for a Master
 of Science Degree.
 
-I hereby declare that, except where due acknowledgement is made, this work has never been
-presented wholly or in part for the award of a degree at AIMS Rwanda or any other University.
-
 Student: Sedjro Salomon Hotegni
+
+Supervised by: Prof. Ernest Fokoue
 ### Master's degree in Data Science
 
 File: https://github.com/Salomon2000Sedjro/MasterThesisAIMS/blob/main/salomon_hotegni_essay2022_final.pdf 
