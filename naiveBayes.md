@@ -3,6 +3,12 @@
 #####################################
 ## IV - Naive Bafes Classification ##
 #####################################
+
+##########
+### AHE ###
+##########
+
+
   
 %matplotlib inline
 import numpy as np
@@ -98,6 +104,10 @@ def NB_perf_on_fold(i):
 
   return tmp, opt_parameters
 
+##########
+### TE ###
+##########
 
+Change the target "target_MAP" to "target_HR"
 
 ```
