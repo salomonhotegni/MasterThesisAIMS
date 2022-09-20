@@ -8,6 +8,8 @@ of Science Degree.
 Student: Sedjro Salomon Hotegni
 
 Supervised by: Prof. Ernest Fokoue
-### Master's degree in Data Science
+### Master's degree in Mathematical Sciences with a specialization in Data Science
 
 File: https://github.com/Salomon2000Sedjro/MasterThesisAIMS/blob/main/salomon_hotegni_essay2022_final.pdf 
+
+arXiv: https://arxiv.org/abs/2208.04732
