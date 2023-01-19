@@ -1,10 +1,2 @@
-*.css linguist-detectable=false
-*.java linguist-detectable=false
-*.python linguist-detectable=true 
-*.js linguist-detectable=true
-*.html linguist-detectable=true  
-*.xml linguist-detectable=false 
-dist/* linguist-vendored=false
-
 app/* linguist-documentation=false
 app/* linguist-vendored
